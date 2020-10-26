@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Danil Bassin
+  description: Ansible role for ansible installation
+  company: ETU
+  license: MIT
+  min_ansible_version: 2.4
+  galaxy_tags: []
+
+dependencies: []
